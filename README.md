@@ -1,6 +1,6 @@
-<h1> visualtrackingcode</h1>
+<title> Visual Tracking Paper and Code</title>
 
-###CVPR2019
+<h>CVPR2019</h>
 * **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan.<br />
   "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR.
   [[paper](https://arxiv.org/pdf/1812.11703.pdf)]
