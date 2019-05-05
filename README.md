@@ -1,6 +1,6 @@
-<h1> Visual Tracking Paper and Code</h1>
+# Visual Tracking Paper and Code
 
-##CVPR2019
+## CVPR2019
 * **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan.<br />
   "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR.
   [[paper](https://arxiv.org/pdf/1812.11703.pdf)]
@@ -9,7 +9,7 @@
   <div align=center><img src="https://github.com/AKOxOKA/visualtrackingcode/blob/master/SiamRPN%2B%2B.png"/></div>
 
 
-##ECCV2016
+## ECCV2016
 * **SiamFC:** Luca Bertinetto *, Jack Valmadre *, João F. Henriques, Andrea Vedaldi, Philip H.S. Torr.<br />
   "Fully-Convolutional Siamese Networks for Object Tracking." ECCV.
   [[paper](https://arxiv.org/pdf/1606.09549.pdf)]
